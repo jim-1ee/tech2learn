@@ -5,6 +5,7 @@ Tech to be learned
 - git
 - c
 - python
+- linux shell
 - ...
 
 ### Tools
