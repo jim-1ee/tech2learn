@@ -9,6 +9,6 @@ Tech to be learned
 - ...
 
 ### Tools
-- vim
+- vim: lihttps://www.fprintf.net/vimCheatSheet.htmlnks<https://www.fprintf.net/vimCheatSheet.html>
 - tmux
 - ...
