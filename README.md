@@ -4,6 +4,7 @@ Tech to be learned
 ## Tech 
 - git
 - c
+- cpp <http://www.cplusplus.com/reference/>
 - python
 - linux shell
 - ...
