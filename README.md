@@ -12,6 +12,8 @@ Tech to be learned
 ### Tools
 - vim: tips <https://www.fprintf.net/vimCheatSheet.html>
 - tmux
+- cmake: CMakeLists.txt
+- make: Makefile
 - ...
 
 ### git
